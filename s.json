@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Micheal Jordan",
+        "age": 21,
+        "secretIdentity": "Dana White",
+        "powers": [
+            "Radiation resistance",
+            "Turning tiny",
+            "Radiation blast"
+        ]
+    
+},
+{
+    "name": "Ronaldo Messi",
+        "age": 41,
+        "secretIdentity": "Conor Khabib",
+        "powers": [
+            "Million tonne punch",
+            "Damage resistance",
+            "Superhuman reflexes"
+        ]
+    }
+]
